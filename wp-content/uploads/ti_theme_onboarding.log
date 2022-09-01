@@ -1,0 +1,14 @@
+[25/Aug/2022:19:17:09] (I): WordPress Instance Info:
+[25/Aug/2022:19:17:09] (I): Home URL : http://localhost:81/fabmetals
+[25/Aug/2022:19:17:09] (I): Site URL : http://localhost:81/fabmetals
+[25/Aug/2022:19:17:09] (I): WordPress Version : 6.0.1
+[25/Aug/2022:19:17:09] (I): Onboarding Version : 1.1.25
+[25/Aug/2022:19:17:09] (I): Multisite : No
+[25/Aug/2022:19:17:09] (I): Server Info : Apache/2.4.33 (Win64) OpenSSL/1.0.2u mod_fcgid/2.3.9 PHP/8.0.1
+[25/Aug/2022:19:17:09] (I): PHP Version : 8.0.1
+[25/Aug/2022:19:17:09] (I): HTTPS : No
+[25/Aug/2022:19:17:09] (I): PHP Max Execution Time : 60
+[25/Aug/2022:19:17:09] (I): PHP Max Input Vars : 1000
+[25/Aug/2022:19:17:09] (I): Max Upload Size : 67108864
+[25/Aug/2022:19:17:09] (I): Plugins:
+[25/Aug/2022:19:17:09] (I): [PLUGIN] Templates Patterns Collection : v1.1.25 (ThemeIsle)
