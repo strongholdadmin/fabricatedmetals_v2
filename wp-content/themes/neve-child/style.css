@@ -5,3 +5,35 @@
  Template:     neve
  Version:      1.0.0
 */
+
+
+/* Gravity Forms styling changes */
+.gfield_label {
+	color: black;
+}
+
+.gform_heading {
+	color: black;
+}
+
+.gform_description, .gform_title, .gform_required_legend {
+	display: none
+}
+
+
+/* Logo sizing fix - makes logo larger on smaller screens */
+.builder-item--logo{
+    --maxwidth: 108px;
+}
+ 
+@media(min-width: 576px){
+    .builder-item--logo{
+        --maxwidth: 108px;
+    }
+}
+ 
+@media (min-width: 960px){
+    .builder-item--logo{
+        --maxwidth: 190px;
+    }
+}
